@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="#Front Week 1" title="#Front Week 1" src="https://raw.githubusercontent.com/clebervasc/landing-page-spiderman/master/assets/images/cover.svg" width="400px" />
+    <img alt="#Front Week 1" title="#Front Week 1" src="https://raw.githubusercontent.com/clebervasc/landing-page-spiderman/4e8c26f6063f7932b3bc053569b7649dab22c9f8/assets/images/cover.svg?token=ARUI6PNSG33WFY2IPPYL3B3AFRORK" width="400px" />
 </h1>
 
 <h4 align="center"> 
@@ -22,7 +22,7 @@
 ## 💻 Projeto
 
 <h1 align="center">
-    <img alt="Example" title="Example" src="https://raw.githubusercontent.com/clebervasc/landing-page-spiderman/master/assets/images/project.png" />
+    <img alt="Example" title="Example" src="https://github.com/clebervasc/landing-page-spiderman/blob/master/assets/images/project.png?raw=true" />
 </h1>
 
 ## :rocket: Tecnologias
