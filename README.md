@@ -47,5 +47,6 @@ Feito com ♥ por Cleber Vasconcelos :wave: [Dê um "alô"](https://www.linkedin
 
 [html5]: https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5/
 [css]: https://www.w3schools.com/css/
+[Vanilla JS]: http://vanilla-js.com/
 [gsap]: https://greensock.com/gsap/
 [vanilla-tilt]: https://micku7zu.github.io/vanilla-tilt.js/
