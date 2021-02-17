@@ -35,9 +35,9 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [gsap][gsap]
 - [vanilla-tilt][vanilla-tilt]
 
-## :information_source: Como usar
+## :information_source: Como Acessar
 
-Acesse:
+[Veja aqui](https://clebervasc.github.io/landing-page-spiderman/)
 
 ## :memo: licença
 
